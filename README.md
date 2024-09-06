@@ -15,6 +15,10 @@ Overall, this custom GPT aims to enhance the user's fishing trips by combining e
 ![Fishing Season Meme](https://github.com/user-attachments/assets/b68123a2-2741-4e0e-85e5-90fea2c9f1f7)
 
 #
+
+![Jaws Water](https://github.com/user-attachments/assets/b268f7c3-9cd3-449e-b150-96bc47d6747d)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
@@ -22,6 +26,8 @@ Overall, this custom GPT aims to enhance the user's fishing trips by combining e
 [Boats](https://github.com/sourceduty/Boats)
 <br>
 [Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
+<br>
+[Scuba Zip](https://github.com/sourceduty/Scuba_Zip)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
