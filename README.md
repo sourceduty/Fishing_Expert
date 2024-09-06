@@ -28,6 +28,14 @@ Overall, this custom GPT aims to enhance the user's fishing trips by combining e
 [Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
 <br>
 [Scuba Zip](https://github.com/sourceduty/Scuba_Zip)
+<br>
+[Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
+<br>
+[Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
+<br>
+[Freshwater Weeds](https://github.com/sourceduty/Freshwater_Weeds)
+<br>
+[Invasive Fish](https://github.com/sourceduty/Invasive_Fish)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
