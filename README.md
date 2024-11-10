@@ -1,4 +1,4 @@
-![Fishing](https://github.com/user-attachments/assets/61dc6be8-180c-4a3c-938d-709a9f0c7464)
+![Fishing](https://github.com/user-attachments/assets/37e5ea41-99ac-4701-ad96-7bc9b7345d38)
 
 > Assistive fishing location finder with weather and bait advice.
 
@@ -11,11 +11,8 @@ In addition to recommending fishing locations, this GPT also provides practical 
 Overall, this custom GPT aims to enhance the user's fishing trips by combining expert fishing knowledge with real-time weather insights. The guidance is informative, friendly, and engaging, making it easy for users to plan their outings effectively. It ensures that anglers are not only well-prepared for their fishing adventures but also mindful of environmental and safety considerations.
 
 #
-
-![Fishing Season Meme](https://github.com/user-attachments/assets/b68123a2-2741-4e0e-85e5-90fea2c9f1f7)
-
+![Fishing](https://github.com/user-attachments/assets/61dc6be8-180c-4a3c-938d-709a9f0c7464)
 #
-
 ![Jaws Water](https://github.com/user-attachments/assets/b268f7c3-9cd3-449e-b150-96bc47d6747d)
 
 #
